@@ -1,0 +1,5 @@
+com/mycompany/bankaccount/bank/account/system/BankAccount.class
+com/mycompany/bankaccount/bank/account/system/InvalidAmountException.class
+com/mycompany/bankaccount/bank/account/system/BankAccountSystem.class
+com/mycompany/bankaccount/bank/account/system/InsufficientFundsException.class
+com/mycompany/bankaccount/bank/account/system/SavingsAccount.class
